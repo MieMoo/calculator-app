@@ -1,8 +1,8 @@
-# Grouo Work Members
-Barrete, Shane
-Krizle, Privado
-Cruz, Rayline
-Angeles, Aaron
+# Group Work Members
+Barrete, Shane\
+Krizle, Privado\
+Cruz, Rayline\
+Angeles, Aaron\
 
 # Getting Started with Create React App
 
